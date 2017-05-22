@@ -953,5 +953,9 @@
     {
       "name": "Subu",
       "colors": ["#0cebeb", "#20e3b2", "#29ffc6"]
+    },
+    {
+        "name": "Clarity",
+        "colors": ["#df6f0b", "#e7e7e8"]
     }
 ]
